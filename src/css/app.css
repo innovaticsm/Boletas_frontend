@@ -1,0 +1,13 @@
+.tableToFormater .q-table thead th {
+    color: black;
+    font-style: italic;
+}
+
+.myFilter:before {
+    content: "ƒ ";
+    color: teal;
+}
+
+.cregister {
+    min-width: 350px;
+}
